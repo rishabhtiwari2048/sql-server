@@ -1,0 +1,44 @@
+SQL Server is a relation database management system created and marketed by
+Microsoft. For first 20 years of its existence it was only available for windows
+platform.
+Since SQL Server 2017 edition, Microsoft made it available for Linux as well.
+
+Microsoft SQL Server is tied to T-SQL which is Microsoft's implementation of SQL
+with some of its own proprietary features.
+
+SQL Server architecture has two main parts,
+  a) Database Engine
+  b) SQLOS
+
+Database Engine:
+  The core component of SQL server is Database Engine. It consists of a relational
+  engine which is responsible for processing queries and a storage engine which is
+  responsible for management of data files, pages, indexes etc. Database objects like
+  stored procedures, views, triggers etc. are also created and executed by Database engine.
+
+SQLOS - SQLOS stands for SQL Server Operating System. Like other operating systems,
+SQLOS handles basic OS related tasks like memory management, IO management, exception
+handling and synchronization.
+
+SQL Server Services and Tools:
+  Microsoft provides both data management and business intelligence services together
+  with SQL Server.
+  For data management, SQL Server comes up with following tools and Services
+    Tools
+      a) SQL Server Management Studio (SSMS) (For manage, deploy and monitor database)
+      b) SQL Server Data Tools (For database development)
+    Services
+      a) SQL Server Data Quality Services
+      b) SQL Server Master Data Services
+      c) SQL Server Integration Services (SSIS)
+
+  For data analysis and reporting, SQL Server comes with following tools and services,
+    Services
+      a) SQL Server Analysis Services (SSAS)
+      b) SQL Server Reporting Services (SSRS)
+
+Different editions of SQL Server,
+  SQL Server Developer edition (Free used for development and testing)
+  SQL Server Express edition (Free used for small databases upto 10 GB disk storage)
+  SQL Server Standard Edition (License Required)
+  SQL Server enterprise Edition (License Required. It is the most powerful version)
