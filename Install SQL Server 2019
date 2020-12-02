@@ -1,0 +1,10 @@
+
+There are 4 different versions of SQL Server 2019 available in the market. We can classify them into two main categories.
+
+1) Production Copies
+    a) SQL Server enterprise edition (Most powerful and most expensive)
+    b) SQL Server standard edition (For production use but with less features than enterprise edition)
+
+2) Learning and Testing Copies
+    a) SQL Server Developer edition (For the SQL Developers. Version is same as enterprise edition but not for production loads)
+    b) SQL Server Express edition (For small applications with maximum 10 GB database size)
